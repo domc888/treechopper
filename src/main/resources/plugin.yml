@@ -1,0 +1,5 @@
+name: TreeChopper
+version: 1.0
+main: treechopper.TreeChopperPlugin
+api-version: '1.21'
+author: domc888
